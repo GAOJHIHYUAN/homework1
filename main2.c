@@ -2,7 +2,7 @@
 #define SIZE 10
 //function main begins program execution 
 int main(void)
-{ 
+{
 	//initialize a
 	int a[SIZE]={2,6,4,8,10,12,89,68,45,37};
 	int pass;//passes counter
